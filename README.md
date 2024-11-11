@@ -21,10 +21,10 @@ create a file called app.py
 ```
 
 ## Step 3
-copy the file to from repo
+copy the file content from repo link to the app.py you just created
 
 ```bash
-%%writefile app.py
+https://github.com/mouzhige/digihealthday/blob/main/app.py
 ```
 
 ## Step 4
