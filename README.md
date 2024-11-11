@@ -38,14 +38,14 @@ Download a LLM
 Check your own IP
 
 ```bash
-! wget -q -O - ipv4.icanhazip.com
+!wget -q -O - ipv4.icanhazip.com
 ```
 
 ## Step 6
 Run and input your own IP
 
 ```bash
-! streamlit run app.py & npx localtunnel --port 8501
+!streamlit run app.py & npx localtunnel --port 8501
 ```
 
 
